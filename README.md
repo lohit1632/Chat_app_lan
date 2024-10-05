@@ -20,5 +20,5 @@ A simple LAN chat application that allows users to send messages to each other o
 ### Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd lan-chat
+git clone <https://github.com/lohit1632/Chat_app_lan/tree/main>
+cd Chat_app_lan
